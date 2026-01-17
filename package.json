@@ -15,7 +15,7 @@
   "dependencies": {
     "cypress": "^13.4.0",
     "pinia": "^2.1.6",
-    "prismjs": "^1.29.0",
+    "prismjs": "^1.30.0",
     "ssh2": "^1.16.0",
     "vue": "^3.3.4",
     "vue-data-ui": "^2.3.45",
@@ -23,11 +23,11 @@
     "vue-tabler-icons": "^2.21.0"
   },
   "devDependencies": {
-    "@vitejs/plugin-vue": "^4.2.3",
+    "@vitejs/plugin-vue": "^6.0.0",
     "autoprefixer": "^10.4.14",
     "postcss": "^8.4.27",
     "tailwindcss": "^3.3.3",
     "typescript": "^5.6.2",
-    "vite": "^4.4.5"
+    "vite": "^7.0.6"
   }
 }
